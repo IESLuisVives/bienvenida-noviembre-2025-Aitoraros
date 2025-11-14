@@ -1,10 +1,10 @@
 # Datos del alumno/a
 
-Nombre: Tu nombre y Dos apellidos
+Nombre: Aitor Arostegui Navarro
 
-Curso: 1DAW o 2DAW
+Curso: 1DAW
 
-Email: tu email de IES Luis Vives o EducaMadrid
+Email: aitor.arostegui@alumno.iesluisvives.org
 
-Nick GitHub: Tu nick de GitHub
+Nick GitHub: @Aitoraros
 
